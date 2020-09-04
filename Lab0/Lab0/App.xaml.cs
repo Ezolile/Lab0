@@ -24,5 +24,7 @@ namespace Lab0
         protected override void OnResume()
         {
         }
+
+        //comment
     }
 }
